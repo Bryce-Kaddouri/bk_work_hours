@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "247872460292",
+    "project_id": "bk-work-hours",
+    "storage_bucket": "bk-work-hours.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247872460292:android:e3ec2b1d23f76dab62c751",
+        "android_client_info": {
+          "package_name": "com.example.bk_work_hours"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247872460292-el81rj4ci0ao6ajhocajuqhnbufiq6fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw-BROZoYqaRDeMv3AYaRqs_smE91pSHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247872460292-el81rj4ci0ao6ajhocajuqhnbufiq6fb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "247872460292-7h8amlqqcthb1gbccpurgteslc4ni1jo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bkWorkHours.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
